@@ -1,0 +1,14 @@
+2024/05/03-10:59:30.727 d5c Reusing MANIFEST C:\Users\mateu\Documents\Projetos\Lecharm\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2024/05/03-10:59:30.740 d5c Recovering log #13
+2024/05/03-10:59:30.741 d5c Reusing old log C:\Users\mateu\Documents\Projetos\Lecharm\.wwebjs_auth\session\Default\Local Storage\leveldb/000013.log 
+2024/05/03-11:03:31.501 1ef8 Level-0 table #17: started
+2024/05/03-11:03:31.505 1ef8 Level-0 table #17: 23634 bytes OK
+2024/05/03-11:03:31.508 1ef8 Delete type=0 #13
+2024/05/03-11:03:31.513 1ef8 Compacting 4@0 + 0@1 files
+2024/05/03-11:03:31.521 1ef8 Generated table #18@0: 81 keys, 17960 bytes
+2024/05/03-11:03:31.521 1ef8 Compacted 4@0 + 0@1 files => 17960 bytes
+2024/05/03-11:03:31.524 1ef8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/03-11:03:31.525 1ef8 Delete type=2 #7
+2024/05/03-11:03:31.525 1ef8 Delete type=2 #11
+2024/05/03-11:03:31.525 1ef8 Delete type=2 #14
+2024/05/03-11:03:31.525 1ef8 Delete type=2 #17
